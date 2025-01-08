@@ -6,7 +6,7 @@
 - random projects i come up with
 
 ### hire me
-- if you need a js/html/css stack swe
+- if you need a ts/js/html/css/sass stack swe
 - you want someone to be the life of your office
 - your company needs someone to write funny commit messages
 
